@@ -1,6 +1,6 @@
 Para utilizarlo/configurarlo:
 Clona el repositorio o descargalo como zip.
-git clone https://github.com/mundo-python/social_project.git
+git clone https://github.com/Santiturneo/project-clone.git
 
 Crea un ambiente virtual
 python -m venv socialenv
